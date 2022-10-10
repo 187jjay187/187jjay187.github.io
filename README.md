@@ -3,7 +3,7 @@
 # Portfolio-Setup-And-Mobile-First
 
 ## Live Demo
-# https://www.187jjay187.github.io
+# https://187jjay187.github.io
 
 ## Recent Fixes
 
